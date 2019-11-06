@@ -1,2 +1,1 @@
-*.pdl linguist-language=YAML
-*.acl linguist-language=YAML
+*.pdl linguist-language=Ruby
