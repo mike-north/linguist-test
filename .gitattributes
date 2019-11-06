@@ -1,2 +1,1 @@
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.pdl linguist-language=INI
+*.pdl linguist-language=dosini
