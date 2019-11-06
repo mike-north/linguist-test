@@ -1,2 +1,2 @@
-*.pdl linguist-language=JavaScript
+*.pdl linguist-language=C++
 *.acl linguist-language=YAML
