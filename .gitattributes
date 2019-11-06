@@ -1,2 +1,2 @@
-*.pdl linguist-language=CPP
+*.pdl linguist-language=YAML
 *.acl linguist-language=YAML
