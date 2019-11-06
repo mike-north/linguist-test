@@ -1,2 +1,1 @@
-*.pdl linguist-language=C++
-
+*.pdl linguist-language=TypeScript
